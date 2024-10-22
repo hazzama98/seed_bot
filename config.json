@@ -1,0 +1,10 @@
+{
+    "run_task": true,
+    "request_limit_per_hour": 100,
+    "check_connection": true,
+    "use_proxy": false,
+    "proxy_file": "proxy.txt",
+    "min_delay": 1,
+    "max_delay": 5
+}
+
