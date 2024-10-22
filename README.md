@@ -1,6 +1,6 @@
 # SEED Bot
 
-LINK GROUP BOT : [https://t.me/seed_coin_bot](t.me/seed_coin_bot/app?startapp=5373988314)
+LINK GROUP BOT : [https://t.me/seed_coin_bot](https://t.me/seed_coin_bot/app?startapp=5373988314)
 
 LINK GROUP TELEGRAM : [https://t.me/UxScript](https://t.me/UxScript)
 
